@@ -2,7 +2,7 @@ using Microsoft.EntityFrameworkCore;
 using Queries.Core.EntityConfigurations;
 using Queries.Core.Model;
 
-namespace Queries.Core
+namespace Queries.Core.Data
 {
   public class PlutoContext : DbContext
   {
